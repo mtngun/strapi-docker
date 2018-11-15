@@ -1,0 +1,6 @@
+/db
+**/admin/**
+**/api/**
+**/build/**
+**/plugins/**
+**/public/**
